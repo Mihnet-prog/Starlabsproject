@@ -1,0 +1,100 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.card-body{
+    position: relative;
+    display: flex;
+    margin: 10px;
+    left: 42%;
+    
+}
+.profil{
+    position: relative;
+    right: auto;
+    right: 44%;
+    
+}
+h5{
+    position: relative;
+    margin: 5px;
+    right: 51%;
+    font: 100px;
+    bottom: -12px;
+    color: darkolivegreen;
+    font-style: oblique;
+}
+.card{
+    bottom: -80px;
+    width: 58%;
+    left: 18%;
+}
+.infor{
+    position: relative;
+    color: darkblue;
+    font-size: 15px;
+    right: 233px;
+}
+.infor2{
+    position: relative;
+    display: block;
+    font-size: 15px;
+    color: darkblue;
+    left: 71%;
+    bottom: 189px
+
+    
+}
+.social{
+    position: relative;
+    display: flex;
+    bottom: px;
+    
+    
+}
+
+img{
+    margin: 15px;
+}
+.Skils{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    right: 28px;
+    font-style: italic;
+    color: blueviolet;
+    bottom: -82px;
+}
+
+.skills1{
+   
+    width: 58%; 
+}
+h4{
+    position: relative;
+    border-style: inset;
+    right: 119px;
+    bottom: 94px;
+    color: wheat;
+    background-color: blue;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 25px rgba(8,7,16,0.6);
+    padding: 30px 30px;
+}
+.skills2{
+    position: relative;
+    width: 58%;
+    left: 42%;
+    bottom: 579px;
+}
+.card-group{
+    position: relative;
+    bottom: 25%;
+    align-items: center;
+    text-align: center;
+    width: 52%;
+   
+}
